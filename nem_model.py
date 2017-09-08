@@ -70,8 +70,6 @@ class NEMCell(RNNCell):
         with tf.name_scope('pred_init'):
             pred_shape = tf.stack([batch_size, K] + self.input_shape.as_list())
             pred = tf.ones(shape=pred_shape, dtype=dtype) * self.pred_init
-            if self.distribution == 'gaussian_sigma':
-                pred = [pred, tf.ones(shape=pred_shape, dtype=dtype)]
 
         # initial gamma (B, K, W, H, 1)
         with tf.name_scope('gamma_init'):
