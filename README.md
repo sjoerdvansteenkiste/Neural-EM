@@ -1,6 +1,6 @@
 # Neural Expectation-Maximization
 
-This is the code repository complementing the paper ["Neural Expectation Maximization"](). All experiments from the paper
+This is the code repository complementing the paper ["Neural Expectation Maximization"](https://arxiv.org/abs/1708.03498). All experiments from the paper
 can be reproduced from this repository. The datasets can be 
 found [here](https://www.dropbox.com/sh/1ue3lrfvbhhkt6s/AAB6WiZzH_mAtCjW6b9okMGea?dl=0).
 
