@@ -1,8 +1,9 @@
 # Neural Expectation-Maximization
 
+![rnn-em](illustrations/flying_shapes.png)
+
 This is the code repository complementing the paper ["Neural Expectation Maximization"](https://arxiv.org/abs/1708.03498). All experiments from the paper
-can be reproduced from this repository. The datasets can be 
-found [here](https://www.dropbox.com/sh/1ue3lrfvbhhkt6s/AAB6WiZzH_mAtCjW6b9okMGea?dl=0).
+can be reproduced from this repository. The datasets can be found [here](https://www.dropbox.com/sh/1ue3lrfvbhhkt6s/AAB6WiZzH_mAtCjW6b9okMGea?dl=0).
 
 ## Dependencies and Setup
 
