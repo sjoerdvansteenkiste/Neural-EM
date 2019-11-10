@@ -31,5 +31,5 @@ scipy==0.19.1
 six==1.10.0
 subprocess32==3.2.7
 tensorflow-gpu==1.2.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 wrapt==1.10.10
