@@ -6,7 +6,7 @@ docopt==0.6.2
 funcsigs==1.0.2
 functools32==3.2.3.post2
 h5py==2.7.0
-html5lib==0.9999999
+html5lib==0.999999999
 jsonpickle==0.9.5
 Markdown==2.6.8
 matplotlib==2.0.2
