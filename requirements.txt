@@ -18,7 +18,7 @@ olefile==0.44
 pandas==0.20.3
 pbr==3.1.1
 Pillow==4.2.1
-protobuf==3.3.0
+protobuf==3.18.3
 pymongo==3.4.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
